@@ -1,0 +1,25 @@
+{
+  "name": "ec2-184-73-222-194.compute-1.amazonaws.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clairellesage/postgresql-practice.git"
+  },
+  "author": "Claire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clairellesage/postgresql-practice/issues"
+  },
+  "homepage": "https://github.com/clairellesage/postgresql-practice#readme",
+  "host" : "ec2-184-73-222-194.compute-1.amazonaws.com",
+  "database" : "d3aap5lth6lsus",
+  "port" : 5432,
+  "password" : "50718b753c32d0479424cbf99dd6795ab1bc4ceb075df58f1caea691be433b13",
+  "URI" : "postgres://zbqrpispdtiazy:50718b753c32d0479424cbf99dd6795ab1bc4ceb075df58f1caea691be433b13@ec2-184-73-222-194.compute-1.amazonaws.com:5432/d3aap5lth6lsus",
+  "Heroku CLI" : "heroku pg:psql postgresql-reticulated-87995 --app w4d1"
+}
